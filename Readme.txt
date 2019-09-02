@@ -1,1 +1,3 @@
-안녕하세요. 최지영입니다.
+Hello. I'm Choi JiYoung.
+
+This is my Portfolio Project.
