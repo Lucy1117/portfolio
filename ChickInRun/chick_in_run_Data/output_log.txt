@@ -1,0 +1,32 @@
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumdx.dll 25.21.14.1634]
+    Renderer: NVIDIA GeForce RTX 2070
+    Vendor:   NVIDIA
+    VRAM:     8031 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\자소서\Chick_In_Run\ChickInRun\chick_in_run_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\자소서\Chick_In_Run\ChickInRun\chick_in_run_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\자소서\Chick_In_Run\ChickInRun\chick_in_run_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\자소서\Chick_In_Run\ChickInRun\chick_in_run_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\자소서\Chick_In_Run\ChickInRun\chick_in_run_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\자소서\Chick_In_Run\ChickInRun\chick_in_run_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+desktop: 2560x1440 144Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\자소서\Chick_In_Run\ChickInRun\chick_in_run_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 32.918697 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 31036.
+Total: 2.648900 ms (FindLiveObjects: 0.728800 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.145500 ms  DeleteObjects: 0.366500 ms)
+
+UnloadTime: 32.705299 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 31036.
+Total: 2.355100 ms (FindLiveObjects: 0.781600 ms CreateObjectMapping: 0.044300 ms MarkObjects: 1.184700 ms  DeleteObjects: 0.017100 ms)
+
