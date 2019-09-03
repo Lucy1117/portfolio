@@ -61,22 +61,48 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\BgmOper.cs" />
+    <Compile Include="Assets\Script\ChickPosition.cs" />
+    <Compile Include="Assets\Script\death.cs" />
+    <Compile Include="Assets\Script\deathElectric.cs" />
+    <Compile Include="Assets\Script\ElectricColor.cs" />
+    <Compile Include="Assets\Script\endinglava.cs" />
+    <Compile Include="Assets\Script\endingmenu.cs" />
+    <Compile Include="Assets\Script\gameoverbgmoper.cs" />
+    <Compile Include="Assets\Script\GateOpen.cs" />
+    <Compile Include="Assets\Script\Goal.cs" />
+    <Compile Include="Assets\Script\InstFollow.cs" />
+    <Compile Include="Assets\Script\LavaGate.cs" />
+    <Compile Include="Assets\Script\LavaGateLava.cs" />
+    <Compile Include="Assets\Script\mannyonsamBlueSmall.cs" />
+    <Compile Include="Assets\Script\MonsterFollow.cs" />
+    <Compile Include="Assets\Script\mousecursor.cs" />
+    <Compile Include="Assets\Script\ObjectIns.cs" />
+    <Compile Include="Assets\Script\ObjectUnion.cs" />
+    <Compile Include="Assets\Script\PlayerInst.cs" />
+    <Compile Include="Assets\Script\samRunaway.cs" />
+    <Compile Include="Assets\Script\ThirdPersonCam.cs" />
+    <Compile Include="Assets\Script\ThirdPersonPlayer.cs" />
+    <Compile Include="Assets\Script\titleCam.cs" />
+    <Compile Include="Assets\Script\titleChick.cs" />
+    <Compile Include="Assets\Script\titleGUI.cs" />
+    <Compile Include="Assets\Script\titleMenu.cs" />
     <Compile Include="Assets\Skies\Scripts\Levelloader.cs" />
     <Compile Include="Assets\Skies\Scripts\MouseLook.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/자소서/Chick_In_Run/ChickInRun/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/JY/Desktop/ChickInRun/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/자소서/Chick_In_Run/ChickInRun/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/JY/Desktop/ChickInRun/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/자소서/Chick_In_Run/ChickInRun/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/JY/Desktop/ChickInRun/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/자소서/Chick_In_Run/ChickInRun/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/JY/Desktop/ChickInRun/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/자소서/Chick_In_Run/ChickInRun/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/JY/Desktop/ChickInRun/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -280,13 +306,13 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/자소서/Chick_In_Run/ChickInRun/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/JY/Desktop/ChickInRun/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/자소서/Chick_In_Run/ChickInRun/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/JY/Desktop/ChickInRun/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/자소서/Chick_In_Run/ChickInRun/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/JY/Desktop/ChickInRun/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>

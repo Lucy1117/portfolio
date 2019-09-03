@@ -7,7 +7,7 @@ public class Levelloader : MonoBehaviour {
 	{
 		// Make a background box
 		GUI.Box (new Rect (10, 10, 140, 310), "Loader Menu");
-
+        /*
 		//Buttons
 		if (GUI.Button (new Rect (20, 40, 120, 30), "Blue Sky")) {
 			Application.LoadLevel (0);
@@ -36,7 +36,7 @@ public class Levelloader : MonoBehaviour {
 		if (GUI.Button (new Rect (20, 280, 120, 30), "Stormy Sky")) {
 			Application.LoadLevel (8);
 		}
-		
+		*/
 		
 	}
 }
