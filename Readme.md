@@ -1,3 +1,3 @@
-Hello. I'm Choi JiYoung.
+안녕하세요. 최지영입니다.
 
-This is my Portfolio Project.
+여태까지 제작한 Term Project를 포트폴리오로 올리는 곳입니다.
