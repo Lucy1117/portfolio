@@ -1,0 +1,4 @@
+﻿  Compiling MultiNetwork.pidl ...
+  지정된 경로를 찾을 수 없습니다.
+  지정된 경로를 찾을 수 없습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(209,5): error MSB6006: "cmd.exe"이(가) 종료되었습니다(코드: 3).

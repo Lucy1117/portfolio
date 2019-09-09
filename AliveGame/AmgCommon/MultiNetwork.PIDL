@@ -1,0 +1,82 @@
+rename cs(std::wstring, System.String);
+rename cs(D3DXVECTOR3, UnityEngine.Vector3);
+
+[marshaler(cs)=AmgClient.Marshaler]
+global MultiC2S 3000 // client to server starting message ID 3001, 3002, ...
+{
+	//1
+	RequestServerIn();
+
+	// Fill your RMI functions here.
+
+	//2
+	RequestLogin([in] std::wstring id, [in] std::wstring password);
+
+	//2
+	RequestRoomList();
+
+	//3 modify
+	RequestInRoom([in] String roomName, [in] bool isNewRoom, [in] std::wstring id);
+
+	//3 new
+	RequestFastRoom([in] std::wstring id);
+
+	//4 new
+	RequestInGame([in] String roomName);
+
+	//5
+	JoinGameScene([in] float x, [in] float y, [in] float z, [in] float angle, [in] int animNum);
+
+	//6
+	Player_SMove(
+		[in] float x, [in] float y, [in] float z, 
+		[in] float vx, [in] float vy, [in] float vz,
+		[in] float angle, [in] int animNum);
+
+	RequestAddTree([in] D3DXVECTOR3 position);
+	RequestRemoveTree([in] int treeID);
+
+}       
+
+[marshaler(cs)=AmgClient.Marshaler]
+global MultiS2C 4000 // server to client
+{
+	//1.5
+	ReplyServerIn();
+	ReplyServerFailed([in] std::wstring reason);
+
+	//2.5
+	NotifyLoginSuccess();
+	NotifyLoginFailed([in] std::wstring reason);
+
+	//3.5 modify
+	ReplyInRoom([in] int result, [in] String comment, [in] int choiceCharacter);
+
+	//4.5 new
+	ReplyInGame([in] int result, [in] String comment);
+
+	NotifyAddTree([in] int treeID, [in] D3DXVECTOR3 position);
+	NotifyRemoveTree([in] int treeID);
+
+	Player_Appear([in] int hostID, [in] std::wstring userID, 
+		[in] float x, [in] float y, [in] float z, 
+		[in] float vx, [in] float vy, [in] float vz,
+		[in] float angle, [in] int animNum, [in] int choiceCharacter);
+
+	Player_Disappear([in] int hostID, [in] std::wstring userID);
+}
+
+[marshaler(cs)=AmgClient.Marshaler]
+global MultiC2C 1000
+{
+	ScribblePoint([in] D3DXVECTOR3 point);
+
+	//new
+	OtherCharacterSelect([in] std::wstring userID, [in] int otherChoiceCharacter);
+
+	Player_CMove(
+		[in] float x, [in] float y, [in] float z, 
+		[in] float vx, [in] float vy, [in] float vz,
+		[in] float angle, [in] int animNum);
+}
+
