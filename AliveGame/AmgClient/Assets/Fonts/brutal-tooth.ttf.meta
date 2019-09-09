@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b19b02827a659494cbe6e4156606e1e1
+timeCreated: 1494683120
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brutal Tooth
+  fontNames:
+  - Brutal Tooth
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

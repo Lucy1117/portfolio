@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 29f3158b0faa59f4aabca1774cf85c0e
+timeCreated: 1502866211
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - slotPrefab: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - selectStackSize: {instanceID: 0}
+  - stackText: {instanceID: 0}
+  - map: {instanceID: 0}
+  - key: {instanceID: 0}
+  - tooltipObject: {instanceID: 0}
+  - tooltiptextObject: {instanceID: 0}
+  - visualTextObject: {instanceID: 0}
+  - player: {fileID: 1663118530223198, guid: e42528d6ba527c140a347f30dcc79559, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

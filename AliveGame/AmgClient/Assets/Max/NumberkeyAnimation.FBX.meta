@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: bcc55e70c44e5d1468862f7073fc3b4a
+timeCreated: 1504516036
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: '#'
+    100002: Box002
+    100004: Box017
+    100006: Box020
+    100008: Box021
+    100010: Box022
+    100012: Box023
+    100014: Box024
+    100016: Box025
+    100018: Box026
+    100020: Box027
+    100022: Box028
+    100024: Box029
+    100026: Box030
+    100028: eight
+    100030: five
+    100032: four
+    100034: nine
+    100036: //RootNode
+    100038: one
+    100040: Rectangle001
+    100042: Rectangle002
+    100044: Rectangle003
+    100046: seven
+    100048: six
+    100050: star
+    100052: Text001
+    100054: Text002
+    100056: Text003
+    100058: Text004
+    100060: Text005
+    100062: Text006
+    100064: Text007
+    100066: Text008
+    100068: Text009
+    100070: Text010
+    100072: Text011
+    100074: Text012
+    100076: three
+    100078: two
+    100080: zero
+    400000: '#'
+    400002: Box002
+    400004: Box017
+    400006: Box020
+    400008: Box021
+    400010: Box022
+    400012: Box023
+    400014: Box024
+    400016: Box025
+    400018: Box026
+    400020: Box027
+    400022: Box028
+    400024: Box029
+    400026: Box030
+    400028: eight
+    400030: five
+    400032: four
+    400034: nine
+    400036: //RootNode
+    400038: one
+    400040: Rectangle001
+    400042: Rectangle002
+    400044: Rectangle003
+    400046: seven
+    400048: six
+    400050: star
+    400052: Text001
+    400054: Text002
+    400056: Text003
+    400058: Text004
+    400060: Text005
+    400062: Text006
+    400064: Text007
+    400066: Text008
+    400068: Text009
+    400070: Text010
+    400072: Text011
+    400074: Text012
+    400076: three
+    400078: two
+    400080: zero
+    2300000: Box002
+    2300002: Box017
+    2300004: Box020
+    2300006: Box021
+    2300008: Box022
+    2300010: Box023
+    2300012: Box024
+    2300014: Box025
+    2300016: Box026
+    2300018: Box027
+    2300020: Box028
+    2300022: Box029
+    2300024: Box030
+    2300026: Rectangle002
+    2300028: Rectangle003
+    2300030: Text001
+    2300032: Text002
+    2300034: Text003
+    2300036: Text004
+    2300038: Text005
+    2300040: Text006
+    2300042: Text007
+    2300044: Text008
+    2300046: Text009
+    2300048: Text010
+    2300050: Text011
+    2300052: Text012
+    3300000: Box002
+    3300002: Box017
+    3300004: Box020
+    3300006: Box021
+    3300008: Box022
+    3300010: Box023
+    3300012: Box024
+    3300014: Box025
+    3300016: Box026
+    3300018: Box027
+    3300020: Box028
+    3300022: Box029
+    3300024: Box030
+    3300026: Rectangle002
+    3300028: Rectangle003
+    3300030: Text001
+    3300032: Text002
+    3300034: Text003
+    3300036: Text004
+    3300038: Text005
+    3300040: Text006
+    3300042: Text007
+    3300044: Text008
+    3300046: Text009
+    3300048: Text010
+    3300050: Text011
+    3300052: Text012
+    4300000: Rectangle002
+    4300002: Box002
+    4300004: Rectangle003
+    4300006: Box017
+    4300008: Text002
+    4300010: Box020
+    4300012: Text001
+    4300014: Box021
+    4300016: Text003
+    4300018: Box022
+    4300020: Text004
+    4300022: Box023
+    4300024: Text005
+    4300026: Box024
+    4300028: Text006
+    4300030: Box025
+    4300032: Text007
+    4300034: Box026
+    4300036: Text008
+    4300038: Box027
+    4300040: Text009
+    4300042: Text010
+    4300044: Box028
+    4300046: Box029
+    4300048: Text011
+    4300050: Box030
+    4300052: Text012
+    7400000: Click
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Click
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

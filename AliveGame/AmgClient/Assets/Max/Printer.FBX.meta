@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 7b80fc0620a5765479ffe693cdece606
+timeCreated: 1499952674
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box02
+    100004: Box03
+    100006: ChamferBo0
+    100008: ChamferBo1
+    100010: ChamferBox
+    100012: ChamferBox01
+    100014: ChamferCy0
+    100016: ChamferCyl
+    100018: ChamferCyl01
+    100020: ChamferCyl02
+    100022: ChamferCyl03
+    100024: ChamferCyl04
+    100026: ChamferCyl05
+    100028: ChamferCyl06
+    100030: ChamferCyl07
+    100032: ChamferCyl08
+    100034: ChamferCyl09
+    100036: ChamferCyl10
+    100038: ChamferCyl11
+    100040: Object01
+    100042: //RootNode
+    100044: Rectangle0
+    400000: Box01
+    400002: Box02
+    400004: Box03
+    400006: ChamferBo0
+    400008: ChamferBo1
+    400010: ChamferBox
+    400012: ChamferBox01
+    400014: ChamferCy0
+    400016: ChamferCyl
+    400018: ChamferCyl01
+    400020: ChamferCyl02
+    400022: ChamferCyl03
+    400024: ChamferCyl04
+    400026: ChamferCyl05
+    400028: ChamferCyl06
+    400030: ChamferCyl07
+    400032: ChamferCyl08
+    400034: ChamferCyl09
+    400036: ChamferCyl10
+    400038: ChamferCyl11
+    400040: Object01
+    400042: //RootNode
+    400044: Rectangle0
+    2300000: Box01
+    2300002: Box02
+    2300004: Box03
+    2300006: ChamferBo0
+    2300008: ChamferBo1
+    2300010: ChamferBox
+    2300012: ChamferBox01
+    2300014: ChamferCy0
+    2300016: ChamferCyl
+    2300018: ChamferCyl01
+    2300020: ChamferCyl02
+    2300022: ChamferCyl03
+    2300024: ChamferCyl04
+    2300026: ChamferCyl05
+    2300028: ChamferCyl06
+    2300030: ChamferCyl07
+    2300032: ChamferCyl08
+    2300034: ChamferCyl09
+    2300036: ChamferCyl10
+    2300038: ChamferCyl11
+    2300040: Object01
+    2300042: Rectangle0
+    3300000: Box01
+    3300002: Box02
+    3300004: Box03
+    3300006: ChamferBo0
+    3300008: ChamferBo1
+    3300010: ChamferBox
+    3300012: ChamferBox01
+    3300014: ChamferCy0
+    3300016: ChamferCyl
+    3300018: ChamferCyl01
+    3300020: ChamferCyl02
+    3300022: ChamferCyl03
+    3300024: ChamferCyl04
+    3300026: ChamferCyl05
+    3300028: ChamferCyl06
+    3300030: ChamferCyl07
+    3300032: ChamferCyl08
+    3300034: ChamferCyl09
+    3300036: ChamferCyl10
+    3300038: ChamferCyl11
+    3300040: Object01
+    3300042: Rectangle0
+    4300000: ChamferCyl04
+    4300002: ChamferBox01
+    4300004: ChamferBox
+    4300006: Box03
+    4300008: ChamferCy0
+    4300010: ChamferBo0
+    4300012: Rectangle0
+    4300014: ChamferCyl06
+    4300016: ChamferCyl01
+    4300018: ChamferCyl02
+    4300020: ChamferCyl03
+    4300022: Box02
+    4300024: ChamferCyl05
+    4300026: ChamferCyl07
+    4300028: ChamferCyl08
+    4300030: ChamferCyl09
+    4300032: ChamferCyl10
+    4300034: ChamferCyl11
+    4300036: ChamferCyl
+    4300038: Object01
+    4300040: ChamferBo1
+    4300042: Box01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

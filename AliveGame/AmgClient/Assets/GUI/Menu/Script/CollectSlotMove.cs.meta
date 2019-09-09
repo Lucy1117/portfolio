@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3f66ebb056b885445a128bc518094a81
+timeCreated: 1502610639
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - slotEmpty: {fileID: 21300000, guid: 0ee2f2f5de2a5a147946131c5a59283a, type: 3}
+  - slotHighlight: {fileID: 21300000, guid: a265b62a006f058459e35f467f8113b5, type: 3}
+  - slotCheck: {fileID: 21300000, guid: b640c22878490ab4e92945bc0a22e718, type: 3}
+  - numberTxt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

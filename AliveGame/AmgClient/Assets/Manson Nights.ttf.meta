@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 63dfa893d2f01ee468537a91702c76c2
+timeCreated: 1494683126
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BN Manson Nights
+  fontNames:
+  - BN Manson Nights
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

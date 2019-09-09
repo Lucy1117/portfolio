@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b1d17cd37e026bc438d7cc45c8fc18bf
+timeCreated: 1500026423
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sceneTexture1: {fileID: 21300000, guid: 2ba1b413dc4a58f4faf12f71ec2221f6, type: 3}
+  - sceneTexture2: {fileID: 21300000, guid: 1e04e2e836e6f354691818c7bc8151d6, type: 3}
+  - sceneTexture3: {fileID: 21300000, guid: 2d4bb385ffbe01b49aff11e723954c44, type: 3}
+  - sceneTexture4: {fileID: 21300000, guid: 0ff2269aa9e9d7c4d92484e1dcc75345, type: 3}
+  - sceneTexture5: {fileID: 21300000, guid: ce13a9d9e8edc93478dbfaae51798274, type: 3}
+  - sceneTexture6: {fileID: 21300000, guid: 52ab4daf3039a824bb55128cadf6172e, type: 3}
+  - sceneTexture7: {fileID: 21300000, guid: 7b3df43d3c9a6cb4aaa90581954f3fb7, type: 3}
+  - sceneTexture8: {fileID: 21300000, guid: 35603af0d0fa7044eb1f3dc38882c682, type: 3}
+  - sceneTexture9: {fileID: 21300000, guid: 3f8a9c53820bed649ad5345ee03372cc, type: 3}
+  - sceneTexture10: {fileID: 21300000, guid: 2c1503749bc099e49a2fa866aab2b177, type: 3}
+  - sceneTexture11: {fileID: 21300000, guid: 180b2086c796d8d4680ae1966593c35e, type: 3}
+  - sceneTexture12: {fileID: 21300000, guid: 8b4592183879c59488bc3f65f1fbfdfb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

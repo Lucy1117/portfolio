@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 047e792a65f329a409ef800030a33dcb
+timeCreated: 1505108030
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - OriginalTexture: {fileID: 21300000, guid: b8fc4cbbaf222694a910ea181682c401, type: 3}
+  - HighlightTexture: {fileID: 21300000, guid: a265b62a006f058459e35f467f8113b5, type: 3}
+  - CheckTexture: {fileID: 21300000, guid: b640c22878490ab4e92945bc0a22e718, type: 3}
+  - upButton: {instanceID: 0}
+  - downButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
